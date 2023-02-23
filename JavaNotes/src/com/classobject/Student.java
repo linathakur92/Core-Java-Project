@@ -3,7 +3,7 @@ package com.classobject;
 
 public class Student {     // Class Creation
 	
-	//Class Body
+	//Class Body of Class
 	
 	public int a= 10;   // Variable Declaration & Initialization
 
